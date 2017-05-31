@@ -443,4 +443,4 @@ There are also many other files not described here, but it is useless to
 cover everything. We want to just help you with the first steps.
 Eventually you'll find your way inside the Redis code base :-)
 
-Enjoy!
+Enjoy!!
